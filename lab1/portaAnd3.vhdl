@@ -1,6 +1,6 @@
 entity PortaAnd3 is
     port(en1, en2, en3: in bit;
-          saida_and3    : out bit);
+         saida_and3   : out bit);
     end PortaAnd3;
     
     architecture behav of PortaAnd3 is
